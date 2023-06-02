@@ -22,7 +22,7 @@ export default class TitleWorker {
      * 重置标题到初始状态
      * */
     restart(){
-        this.setSubtitleText('Let me help you!');
+        this.setSubtitleText('让我来帮你吧！');
         document.title = 'NewBing:Enjoy AI';
     }
     /**
